@@ -9,6 +9,7 @@ import 'package:athaar_app/home/tabs/home_tab/icons_button/nearby_list.dart';
 import 'package:athaar_app/providers/app_theme_provider.dart';
 import 'package:athaar_app/utils/app_routes.dart';
 import 'package:athaar_app/utils/app_theme.dart';
+// ignore: deprecated_member_use
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'home/auth/login/login_screen.dart';
